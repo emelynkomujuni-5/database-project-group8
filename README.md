@@ -22,6 +22,6 @@ Click the links below to view the project documents:
 * **[SQL Script](./Library_System.sql)**
 
 ## Summary Video of the Project.
-**Watch the Video:** []
+**Watch the Video on YouTube here:** [Click here to watch my project video](https://youtu.be/EkMmysYA-Sc?si=QcvLd9SEP-SOS_WQ)
 
 ---------------------------------------------------------
